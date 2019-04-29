@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\bin\Debug\Pig Latin Translator Regex.exe.config
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\bin\Debug\Pig Latin Translator Regex.exe
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\bin\Debug\Pig Latin Translator Regex.pdb
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\obj\Debug\Pig Latin Translator Regex.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\obj\Debug\Pig Latin Translator Regex.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\obj\Debug\Pig Latin Translator Regex.exe
+C:\Users\lisaa\source\repos\Pig Latin Translator Regex\Pig Latin Translator Regex\obj\Debug\Pig Latin Translator Regex.pdb
